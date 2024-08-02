@@ -67,10 +67,12 @@ Experienced Laravel, Vue.js developer (6 years) and Node.js (2 year) of expertis
 
 ---
 
-<h2 align="center">🤝 Support</h2>
+<details open>
+  <summary><h2>🤝 Support</h2></summary>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
-<h4 align="center">Also, follow!</h4>
-<h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
+  <p>🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+  <p>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+  </p>
+  <h4>💙 Also, follow me!</h4>
+  <h5>⚡️<i>Stay awesome!</i>⚡️</h5>
+</details>
