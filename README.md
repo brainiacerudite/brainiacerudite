@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-<img src="[https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png](https://github.com/brainiacerudite/brainiacerudite/blob/main/BRAINIAC_BANNER.png)" alt="Banner about Brainiac Erudite"> -->
+<img src="https://github.com/brainiacerudite/brainiacerudite/blob/main/BRAINIAC_BANNER.png" alt="Banner about Brainiac Erudite">
 
 <!--
 **brainiacerudite/brainiacerudite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
