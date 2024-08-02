@@ -64,3 +64,13 @@ Experienced Laravel, Vue.js developer (6 years) and Node.js (2 year) of expertis
       <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   </p>
 </details>
+
+---
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<h4 align="center">Also, follow!</h4>
+<h3 align='center'>⚡️<i>Stay awesome!</i>⚡️</h3>
