@@ -13,7 +13,7 @@
 
 ### Hey there 👋,
 
-Experienced Laravel, Vue.js developer (6 years) and Node.js (2 year) of expertise in building robust web applications. Strong problem-solving and collaboration skills. Skilled in Node.js, Laravel, Vue.js, PHP, JavaScript, RESTful APIs, MySQL, Git, HTML, CSS, Tailwindcss and so on. Speaks Yoruba and English fluently.
+Experienced PHP, Node.js, Laravel, Vue.js, Nuxt and Quasar developer with several years of expertise in building robust web applications. Strong problem-solving and collaboration skills. Skilled in Node.js, Laravel, Vue.js, PHP, JavaScript, RESTful APIs, MySQL, Git, HTML, CSS, Tailwindcss and so on. Speaks Yoruba and English fluently.
 
 ---
 
