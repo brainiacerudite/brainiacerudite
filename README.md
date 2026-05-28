@@ -13,7 +13,8 @@
 
 ### Hey there 👋,
 
-Experienced PHP, Node.js, Laravel, Vue.js, Nuxt, Quasar, React.js, Next, React Native developer with several years of expertise in building robust web applications. Strong problem-solving and collaboration skills. Skilled in Node.js, Laravel, Vue.js, React.js, PHP, JavaScript, RESTful APIs, MySQL, Git, HTML, CSS, Tailwindcss and so on. Speaks Yoruba and English fluently.
+I'm a backend engineer who builds systems that handle real complexity: payments, identity, fleet operations, and the workflows that keep teams moving.
+I specialize in Node.js, TypeScript and Laravel on the backend, with a full-stack reach across Vue.js, React.js, and React Native when the job calls for it. Before I write a line of code, I map out the problem, understanding requirements, planning architecture, then building something that scales and won't need to be rewritten next quarter.
 
 ---
 
